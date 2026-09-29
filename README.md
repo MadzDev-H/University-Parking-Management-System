@@ -85,6 +85,3 @@ src/
 - Model availability by booking schedule so a space can support separate time slots.
 - Separate the large UI class into smaller views and controllers.
 
-## Screenshots
-
-No screenshots are included yet. Add screenshots of the dashboard, booking workflow, and entry/exit session table using fictional demo details only. Do not include real contact information, usernames, or passwords.
